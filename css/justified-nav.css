@@ -38,9 +38,8 @@ body {
   background-image:         linear-gradient(top, #30BDF2 0%, #6ed0f5 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30BDF2', endColorstr='#6ed0f5',GradientType=0 ); /* IE6-9 */
   background-repeat: repeat-x; /* Repeat the gradient */
-  border-radius:10px;
-  margin-right:10px;
-  padding: 7px 5px 7px 5px;
+  border-radius:8px;
+
 }
 .nav-justified > .active > a,
 .nav-justified > .active > a:hover,
@@ -58,6 +57,8 @@ body {
   .nav-justified > li > a {
     border-right: 1px solid #fff;
     border-left: 1px solid #fff;
+    margin-right:10px;
+    padding: 7px 5px 7px 5px;
   }
 
 /* Responsive: Portrait tablets and up */
