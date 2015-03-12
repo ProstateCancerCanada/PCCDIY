@@ -35,4 +35,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-Icon
+.VolumeIcon.icns
+.fseventsd
+Icon^M^M
